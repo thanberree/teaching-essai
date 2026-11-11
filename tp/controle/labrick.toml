@@ -1,0 +1,13 @@
+[tp]
+langue = "java"
+name = "controle"
+titre = "Contrôle en ligne"
+
+[evaluation]
+politique = "entree-sortie"
+
+[[evaluation.tests]]
+nom     = "bonjour"
+fichier = "src/Bonjour.java"
+entree  = ""
+sortie  = "Bonjour\n"

@@ -1,7 +1,0 @@
-module Main
-
-exercise
-septuple : Int -> Int
-  examples
-    septuple 2 ≡ 14
-septuple x = x * 7

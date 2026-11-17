@@ -1,9 +1,0 @@
-[project]
-name = "deps"
-title = "Dépendance injoignable (KB-464)"
-
-[build]
-src = "src"
-
-[dependencies]
-x = { git = "https://git.invalid/inexistant.git", tag = "v1" }

@@ -1,0 +1,6 @@
+[project]
+name = "sol"
+title = "Copie avec solutions (KB-386)"
+
+[build]
+src = "src"

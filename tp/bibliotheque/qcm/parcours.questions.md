@@ -1,9 +1,9 @@
 ---
 id: parcours
-titre: Parcours d'un tableau
+title: Parcours d'un tableau
 ---
 
-## Lequel affiche le tableau `t` de la fin vers le début ? {#q .unique}
+## Lequel affiche le tableau `t` de la fin vers le début ? {#q .single}
 
 - [ ] `for (int i = t.length; i > 0; i--) { System.out.print(t[i]); }`
 - [x] `for (int i = t.length - 1; i >= 0; i--) { System.out.print(t[i]); }`
